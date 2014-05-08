@@ -1,0 +1,14 @@
+#datos{
+  text-align:center;
+  width:350px;
+  margin-left: auto;
+  margin-right: auto;  
+  font-size: 18px;
+}
+#acciones{
+  background: cadetblue;  
+  display: none;
+}
+#datosmodificar{
+  display: none;  
+}
